@@ -63,7 +63,7 @@
 
 
 
-# ⚙️ &nbsp;GitHub Stats
+# ⚙️ &nbsp;GitHub Stats:
 <p align="center">
 <a href="https://github.com/dipanadi">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanadi&theme=react" />
